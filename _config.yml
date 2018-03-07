@@ -7,8 +7,8 @@ title: Liuxy's Blog
 subtitle: 时间太细，指缝太宽。
 description:
 author: Liuxy
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: pacman # 更换主题
+theme: next # 更换主题
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
